@@ -1,99 +1,99 @@
 # > 流媒体emby-nexitally服务器
-HOST,emby.nexitally.com
+HOST-SUFFIX,emby.nexitally.com,Emby
 
 # > 流媒体emby-paoche服务器
-HOST,emby.cjpc.cc
+HOST-SUFFIX,emby.cjpc.cc,Emby
 
 # > 流媒体emby-flowercloud服务器
-HOST,emby.flowercloud.yt
+HOST-SUFFIX,emby.flowercloud.yt,Emby
 
 # > 流媒体emby-maying服务器
-HOST,emby.maying.club
+HOST-SUFFIX,emby.maying.club,Emby
 
 # > 流媒体emby-mdss服务器
-HOST,emby.mdss.cloud
+HOST-SUFFIX,emby.mdss.cloud,Emby
 
 # > 流媒体emby-ytoo服务器
-HOST,emby.ytoo.li
+HOST-SUFFIX,emby.ytoo.li,Emby
 
 # > 流媒体emby-w8ves服务器
-HOST,embyserver.ga
+HOST-SUFFIX,embyserver.ga,Emby
 
 # > 流媒体emby-prpr服务器
-HOST,emby.prprcloud.com
+HOST-SUFFIX,emby.prprcloud.com,Emby
 
 # > 流媒体emby-nyancat服务器
-HOST,emby.nyancat.net
+HOST-SUFFIX,emby.nyancat.net,Emby
 
 # > 流媒体emby-Plus体验服
-HOST,emby.plusmedia.site
-HOST,emby-cf.plusmedia.site 
-HOST,emby.xeton.dev
-HOST,jellyfin.xeton.dev
-HOST,movie.xeton.dev
-HOST,servers.xeton.dev
+HOST-SUFFIX,emby.plusmedia.site,Emby
+HOST-SUFFIX,emby-cf.plusmedia.site,Emby
+HOST-SUFFIX,emby.xeton.dev,Emby
+HOST-SUFFIX,jellyfin.xeton.dev,Emby
+HOST-SUFFIX,movie.xeton.dev,Emby
+HOST-SUFFIX,servers.xeton.dev,Emby
 
 # > 流媒体emby-Otaku体验服
-HOST,emby.otakudrive.life
-HOST,emby2.otakudrive.life 
+HOST-SUFFIX,emby.otakudrive.life,Emby
+HOST-SUFFIX,emby2.otakudrive.life,Emby
 
 # > 流媒体emby-jmsooo体验服
-HOST,agahk1.jmsooo.com
-HOST,agasg1.jmsooo.com
-HOST,agajp1.jmsooo.com
-HOST,aws.jmsooo.com
-HOST,ntt1.jmsooo.com
-HOST,hinet.jmsooo.com
-HOST,cf1.jmsooo.com
+HOST-SUFFIX,agahk1.jmsooo.com,Emby
+HOST-SUFFIX,agasg1.jmsooo.com,Emby
+HOST-SUFFIX,agajp1.jmsooo.com,Emby
+HOST-SUFFIX,aws.jmsooo.com,Emby
+HOST-SUFFIX,ntt1.jmsooo.com,Emby
+HOST-SUFFIX,hinet.jmsooo.com,Emby
+HOST-SUFFIX,cf1.jmsooo.com,Emby
 
 # > 流媒体pornemby服务器
-HOST,pornemby.club
+HOST-SUFFIX,pornemby.club,Emby
 
 # > 流媒体IMM服务器
-HOST,emby.immtel.com
+HOST-SUFFIX,emby.immtel.com,Emby
 
 # > 流媒体Odyssey服务器
-HOST,cf.odysseyplus.site
-HOST,agahk.odysseyplus.site
-HOST,agasg.odysseyplus.site
-HOST,ru.odysseyplus.site
+HOST-SUFFIX,cf.odysseyplus.site,Emby
+HOST-SUFFIX,agahk.odysseyplus.site,Emby
+HOST-SUFFIX,agasg.odysseyplus.site,Emby
+HOST-SUFFIX,ru.odysseyplus.site,Emby
 
 # > 流媒体Exflux服务器
-HOST,line.emby.men
+HOST-SUFFIX,line.emby.men,Emby
 
 # > 流媒体SoCloud服务器
-HOST,emby.run
+HOST-SUFFIX,emby.run,Emby
 
 # > 流媒体普拉斯影业服务器
-HOST,emby.plusmedia.site
-HOST,emby-sg.plusmedia.site
-HOST,emby-cf.plusmedia.site
-HOST,emby.xeton.dev
-HOST,jellyfin.xeton.dev
-HOST,movie.xeton.dev
-HOST,servers.xeton.dev
+HOST-SUFFIX,emby.plusmedia.site,Emby
+HOST-SUFFIX,emby-sg.plusmedia.site,Emby
+HOST-SUFFIX,emby-cf.plusmedia.site,Emby
+HOST-SUFFIX,emby.xeton.dev,Emby
+HOST-SUFFIX,jellyfin.xeton.dev,Emby
+HOST-SUFFIX,movie.xeton.dev,Emby
+HOST-SUFFIX,servers.xeton.dev,Emby
 
 # > 流媒体WaveCloud服务器
-HOST,embyserver.ga
+HOST-SUFFIX,embyserver.ga,Emby
 
 # > 流媒体卷毛鼠服务器
-HOST,jmsooo.com
-HOST,cf.jmsooo.com
-HOST,hk.jmsooo.com
-HOST,sg.jmsooo.com
+HOST-SUFFIX,jmsooo.com,Emby
+HOST-SUFFIX,cf.jmsooo.com,Emby
+HOST-SUFFIX,hk.jmsooo.com,Emby
+HOST-SUFFIX,sg.jmsooo.com,Emby
 
 # > 流媒体Misakaf服务器
-HOST,emby.misakaf.xyz
-IP-CIDR,46.38.239.238/24
-HOST,embyaz.misakaf.xyz
+HOST-SUFFIX,emby.misakaf.xyz,Emby
+IP-CIDR,46.38.239.238/24,Emby
+HOST-SUFFIX,embyaz.misakaf.xyz,Emby
 
 # > 流媒体singularity服务器
-HOST,singularity.deja-vu.beauty
+HOST-SUFFIX,singularity.deja-vu.beauty,Emby
 
 # > 流媒体nakonako服务器
-HOST,nakonako.net
-IP-CIDR,95.217.228.96/24
+HOST-SUFFIX,nakonako.net,Emby
+IP-CIDR,95.217.228.96/24,Emby
 
 # BlueSeaMusics服务器
-HOST,blueseamusics.com
-HOST,jp.blueseamusicbox.best
+HOST-SUFFIX,blueseamusics.com,Emby
+HOST-SUFFIX,jp.blueseamusicbox.best,Emby
