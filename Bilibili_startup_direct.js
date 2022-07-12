@@ -11,7 +11,7 @@
  
 [rewrite_local]
 # ～ B站启动时开启直连模式（2022-05-23）@ddgksf2013
-^https?:\/\/api\.bilibili\.com\/x\/offline\/version url script-response-body https://raw.githubusercontent.com/gengleo/Quantumult-X/new/main/bilibili_startup_direct.js
+^https?:\/\/api\.bilibili\.com\/x\/offline\/version url script-response-body https://raw.githubusercontent.com/gengleo/Quantumult-X/main/Bilibili_startup_direct.js
 [mitm] 
 hostname=api.bilibili.com
 ***********************************/
