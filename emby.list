@@ -97,3 +97,6 @@ IP-CIDR,95.217.228.96/24,Emby
 # BlueSeaMusics服务器
 HOST-SUFFIX,blueseamusics.com,Emby
 HOST-SUFFIX,jp.blueseamusicbox.best,Emby
+
+# CC公益服
+HOST-SUFFIX,emby.juasu.ga,Emby
